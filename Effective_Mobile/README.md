@@ -14,8 +14,9 @@ nginx → backend
 ## Запуск проекта
 
 Требования:
-- Docker
-- Docker Compose
+
+* Docker
+* Docker Compose
 
 Запуск:
 
